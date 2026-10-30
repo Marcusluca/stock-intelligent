@@ -1,0 +1,9 @@
+codigo_material,descricao,deposito,estoque_sistema,estoque_fisico,valor_unitario
+MAT001,Parafuso industrial,A,100,90,2.50
+MAT002,Rolamento industrial,A,50,48,150.00
+MAT003,Motor elétrico,B,10,12,800.00
+MAT004,Cabo elétrico,B,200,200,15.00
+MAT001,Parafuso industrial,B,30,30,2.50
+MAT005,Filtro de óleo,A,abc,10,35.00
+MAT006,Retentor,A,-5,3,12.00
+MAT002,Rolamento industrial,A,50,50,150.00
